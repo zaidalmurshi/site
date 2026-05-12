@@ -3,8 +3,8 @@ id: custom-domains
 title: Custom Domains
 sidebar_label: Custom Domains
 slug: /custom-domains
----
-
+---ناصر المعرشي
+نا
 For $9 per month (billed annually) a Custom Domain subscription enables a stable domain for your tunnel with a priority share of the bandwidth on the localhost.run system.
 
 You can use your own domain, or you can use a subdomain of lhr.rocks.
